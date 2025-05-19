@@ -9,6 +9,8 @@ Proyek ini menggunakan **Clean Architecture** dengan struktur direktori yang mem
 - Meningkatkan skalabilitas dan maintainability
 
 ### Struktur Direktori
+
+```text
 ├── cmd/
 │   └── main.go              # Entry point aplikasi
 │
@@ -54,6 +56,7 @@ Proyek ini menggunakan **Clean Architecture** dengan struktur direktori yang mem
 │
 ├── go.mod
 └── go.sum
+```
 
 ## Teknologi yang Digunakan
 
